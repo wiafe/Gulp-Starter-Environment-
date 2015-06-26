@@ -3,7 +3,8 @@
 ## Lightweight Gulp configuration
 
 ### Getting Started!
-1. Have npm and node installed
+1. Have [node.js](https://nodejs.org/) installed
+2. Then install ``npm install npm -g`` (if you get an error try using doing ``sudo npm install npm -g`` instead)
 
 Once they are installed run the following in the command line:
 
