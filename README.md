@@ -2,7 +2,7 @@
 
 ## Lightweight Gulp configuration
 
-Getting Started!
+### Getting Started!
 1. Have npm and node installed
 
 Once they are installed run the following in the command line:
